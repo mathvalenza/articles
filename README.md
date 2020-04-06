@@ -1,5 +1,5 @@
 # Articles
-This repository contains all my published articles written during my major in Computer Science by Santa Catarina State University.
+This repository contains all my published articles written during my major in Computer Science by Santa Catarina State University (2014-2018) and after.
 
 ### 2017
 
