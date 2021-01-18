@@ -12,7 +12,7 @@ This repository contains all my published articles written during my major in Co
 
 
 
-* [Guidelines para Game Design de Jogos Sérios para Crianças e sua Aplicação na Alfabetização Matemática](https://github.com/mathvalenza/articles/blob/master/%5B2018%5D%20Major%20Thesis:%20Guidelines%20para%20Game%20Design%20de%20Jogos%20Serios%20para%20Criancas%20e%20sua%20Aplicacao%20na%20Alfabetizacao%20Matematica.pdf) (in portuguese)<br>Major thesis by **Santa Catarina State University**
+* [Guidelines para Game Design de Jogos Sérios para Crianças e sua Aplicação na Alfabetização Matemática](https://github.com/mathvalenza/articles/blob/master/%5B2018%5D%20Major%20Thesis:%20Guidelines%20para%20Game%20Design%20de%20Jogos%20Serios%20para%20Criancas%20e%20sua%20Aplicacao%20na%20Alfabetizacao%20Matematica.pdf)<br>(in portuguese)<br>Major thesis by **Santa Catarina State University**
 
 ### 2019
 
